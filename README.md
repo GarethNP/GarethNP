@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 This website is for the purposes of P3 Neuroscience.
 
 <!--
 **GarethNP/GarethNP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
